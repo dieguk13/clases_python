@@ -1,0 +1,1 @@
+#Escribe un programa en Python que lea un archivo de texto y cuente la cantidad de palabras que contiene.
